@@ -33,7 +33,7 @@ export const Large: StoryObj<HeadingProps> = {
 export const CustonComponent: StoryObj<HeadingProps> = {
   args: {
     asChild: true,
-    children: <h1>Testando</h1>,
+    children: <h1>Heading com H1</h1>,
     size: "lg",
   },
   argTypes: {

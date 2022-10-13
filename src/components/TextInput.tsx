@@ -27,7 +27,6 @@ function TextInputIcon(props: TextInpuyIconProps) {
 
 export interface TextInputInputProps
   extends InputHTMLAttributes<HTMLInputElement> {}
-
 function TextInputInput(props: TextInputInputProps) {
   return (
     <input
