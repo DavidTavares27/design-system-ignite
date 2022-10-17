@@ -1,6 +1,6 @@
 
 <div>
-    <img src="https://e7.pngegg.com/pngimages/840/377/png-clipart-programmer-computer-programming-programmer-angle-hand.png" height="280" width=100%/>
+    <img src="https://img2.gratispng.com/20180524/rta/kisspng-programmer-source-code-clip-art-5b07480ad0d6c7.4616839215272038508554.jpg" height="280" width=100%/>
 </div>
 
 # design-system-ignite
