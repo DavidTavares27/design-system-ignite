@@ -1,6 +1,6 @@
 
 <div>
-    <img src="https://photos.google.com/album/AF1QipN993-I0gmNe7MZNxtGKqkKWzJ9W-U8_cP0RleI/photo/AF1QipPxepbZDfoypWerskjNF1gz5sXsn767e0nO-TfU" height="280" width=100%/>
+    <img src="https://photos.google.com/photo/AF1QipNsCjtFv0x1AfAtf-13GmKTUBjWN96CnrgoZ5NZ" height="280" width=100%/>
 </div>
 
 # design-system-ignite
