@@ -1,6 +1,6 @@
 
 <div>
-    <img src="https://imgur.com/a/vbox0Ld" height="280" width=100%/>
+    <img src="https://imgur.com/yUaFAld" height="280" width=100%/>
 </div>
 
 # design-system-ignite
