@@ -1,6 +1,6 @@
 
 <div>
-    <img src="[https://imgur.com/yUaFAld](https://www.google.com/imgres?imgurl=https%3A%2F%2Fe7.pngegg.com%2Fpngimages%2F829%2F901%2Fpng-clipart-programmer-personal-computer-employee-monitoring-employee-computer-computer-cartoon.png&imgrefurl=https%3A%2F%2Fwww.pngegg.com%2Fpt%2Fpng-ibbkz&tbnid=n9Si3gSHsd-JUM&vet=12ahUKEwis84r_gOb6AhVis5UCHVgQApQQMyhLegUIARCIAQ..i&docid=KzqIumFmpOBnBM&w=900&h=576&q=pessoa%20programando%20desenho&ved=2ahUKEwis84r_gOb6AhVis5UCHVgQApQQMyhLegUIARCIAQ)" height="280" width=100%/>
+    <img src="https://e7.pngegg.com/pngimages/840/377/png-clipart-programmer-computer-programming-programmer-angle-hand.png" height="280" width=100%/>
 </div>
 
 # design-system-ignite
